@@ -3,7 +3,7 @@
 Mobile Developer at VNEXT
 
 
-Twitter: dunghn2201 Linkedin: dunghn2201 GitHub dunghn2201
+Twitter: [I'm an inline-style link with title](https://twitter.com/dunghn2201 "Google's Homepage") Linkedin: dunghn2201 GitHub dunghn2201
 <!--
 **dunghn2201/dunghn2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
